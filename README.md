@@ -32,3 +32,9 @@ Other Tools: Git, GitHub, REST APIs, Authentication & Authorization
 <p align="center"> <a href="https://www.facebook.com/profile.php?id=61553261826368"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="mailto:haseebyaseen662@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
 ⚡ Less talk, more code. I let my projects speak for me.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Haseeb's GitHub profile banner" src="dark.svg">
+</picture>
