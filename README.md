@@ -49,11 +49,11 @@ $ status
 
 **Changing how Pakistani students & teachers learn and share.**
 
-MCQ-based mock tests, past papers, chapter tests, and notes for Punjab board students (9th–12th). Built to make exam prep and knowledge-sharing between students and teachers faster and more accessible.
+MCQ-based mock tests, past papers, chapter tests, and notes for Punjab board students (9th–12th) — built to make exam prep and knowledge-sharing between students and teachers faster and more accessible.
 
-<img src="https://img.shields.io/badge/Flutter-570100?style=flat-square&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/Laravel-570100?style=flat-square&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/MySQL-570100?style=flat-square&labelColor=0d0d0d" alt="" />
+<img src="https://img.shields.io/badge/Flutter-570100?style=for-the-badge&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/Laravel-570100?style=for-the-badge&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/MySQL-570100?style=for-the-badge&labelColor=0d0d0d" alt="" />
 
-<img src="https://img.shields.io/badge/●_Launching_soon-8a0200?style=flat-square&labelColor=0d0d0d" alt="status" />
+<img src="https://img.shields.io/badge/●_Launching_soon-8a0200?style=for-the-badge&labelColor=0d0d0d" alt="status" />
 
 </td>
 <td width="50%" valign="top">
@@ -62,11 +62,11 @@ MCQ-based mock tests, past papers, chapter tests, and notes for Punjab board stu
 
 **Digitalizing the restaurant waiting queue.**
 
-Replaces physical waiting lines with a live digital queue — customers scan a QR code and track their order status in real time, no more standing around guessing.
+Replaces physical waiting lines with a live digital queue — customers scan a QR code and track their order status in real time, no more standing around guessing at the counter.
 
-<img src="https://img.shields.io/badge/Laravel-570100?style=flat-square&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/MySQL-570100?style=flat-square&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/Livewire-570100?style=flat-square&labelColor=0d0d0d" alt="" />
+<img src="https://img.shields.io/badge/Laravel-570100?style=for-the-badge&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/MySQL-570100?style=for-the-badge&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/Livewire-570100?style=for-the-badge&labelColor=0d0d0d" alt="" />
 
-<img src="https://img.shields.io/badge/●_Shipped_&_validated-8a0200?style=flat-square&labelColor=0d0d0d" alt="status" />
+<img src="https://img.shields.io/badge/●_Shipped_&_validated-8a0200?style=for-the-badge&labelColor=0d0d0d" alt="status" />
 
 </td>
 </tr>
@@ -82,18 +82,18 @@ Replaces physical waiting lines with a live digital queue — customers scan a Q
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:570100&height=45&text=📖%20DIGITAL%20EDUCATION%20INFRA&fontColor=f8f8f8&fontSize=15&fontAlignY=65" width="100%" alt="edu-header" />
 
-Building scalable backend systems that make quality education content reachable — mock tests, past papers, and knowledge-sharing tools designed for how students in Pakistan actually study.
+Building scalable backend systems that make quality education content reachable — mock tests, past papers, and knowledge-sharing tools designed around how students in Pakistan actually study.
 
-<img src="https://img.shields.io/badge/Laravel-570100?style=flat-square&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/MySQL-570100?style=flat-square&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/System_Design-570100?style=flat-square&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/Scalable_APIs-570100?style=flat-square&labelColor=0d0d0d" alt="" />
+<img src="https://img.shields.io/badge/Laravel-570100?style=for-the-badge&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/MySQL-570100?style=for-the-badge&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/System_Design-570100?style=for-the-badge&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/Scalable_APIs-570100?style=for-the-badge&labelColor=0d0d0d" alt="" />
 
 </td>
 <td width="50%" valign="top">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:570100&height=45&text=🤖%20AGENTIC%20AI%20×%20WORKFLOWS&fontColor=f8f8f8&fontSize=15&fontAlignY=65" width="100%" alt="ai-header" />
 
-Automating business processes by wiring AI agents into real operational workflows — not chatbots bolted on, but AI doing the actual work inside a system.
+Automating business processes by wiring AI agents into real operational workflows — not chatbots bolted on, but AI actually doing the work inside a live business system.
 
-<img src="https://img.shields.io/badge/AI_Agents-570100?style=flat-square&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/Workflow_Automation-570100?style=flat-square&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/API_Integration-570100?style=flat-square&labelColor=0d0d0d" alt="" />
+<img src="https://img.shields.io/badge/AI_Agents-570100?style=for-the-badge&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/Workflow_Automation-570100?style=for-the-badge&labelColor=0d0d0d" alt="" /> <img src="https://img.shields.io/badge/API_Integration-570100?style=for-the-badge&labelColor=0d0d0d" alt="" />
 
 </td>
 </tr>
