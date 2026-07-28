@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d0d0d,50:570100,100:8a0200&text=MUHAMMAD%20HASEEB&fontColor=f8f8f8&fontSize=32&fontAlignY=38&desc=Full%20Stack%20%2F%20Mobile%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d0d0d,50:570100,100:8a0200&text=MUHAMMAD%20HASEEB&fontColor=f8f8f8&fontSize=32&fontAlignY=38&desc=AI%20Integration%20%2F%20Backend%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=8A0200&center=true&vCenter=true&width=640&lines=Building+Pinexa+%3A%3A+EdTech+for+Pakistani+students;Building+TableFlow+%3A%3A+Digitalizing+Restaurant+Queues;Laravel+%C2%B7+Livewire+%C2%B7+Flutter+%C2%B7+MySQL+%C2%B7+Tailwind;Documenting+the+build+in+public" alt="typing" />
 
