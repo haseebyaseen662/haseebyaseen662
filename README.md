@@ -17,7 +17,7 @@
 
 ```bash
 $ whoami
-> muhammad-haseeb :: self-taught developer :: 11th grade, Lahore, Pakistan
+> muhammad-haseeb :: self-taught developer :: content-creator, Lahore, Pakistan
 
 $ uptime
 > ~1 year shipping Laravel apps, now building cross-platform with Flutter
