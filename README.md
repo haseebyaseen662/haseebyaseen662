@@ -74,24 +74,35 @@ Replaces physical waiting lines with a live digital queue — customers scan a Q
 
 <br/>
 
-## 🌆 Contribution City
+## 🎯 Specialization
 
-<img src="https://raw.githubusercontent.com/haseebyaseen662/haseebyaseen662/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3D contribution graph" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## 📊 Telemetry
+### 📖 Digital Education Infrastructure
 
-<img src="https://streak-stats.demolab.com?user=haseebyaseen662&hide_border=true&background=0D1117&ring=FF6B35&fire=FF8A4C&currStreakLabel=FF8A4C&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e" alt="streak" />
+Building scalable backend systems that make quality education content reachable — mock tests, past papers, and knowledge-sharing tools designed for how students in Pakistan actually study.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebyaseen662&bg_color=0d1117&color=ff8a4c&line=ff6b35&point=f8f8f8&area=true&area_color=ff6b35&hide_border=true" width="94%" alt="activity graph" />
+`Laravel` `MySQL` `System Design` `Scalable APIs`
 
-## 🐍 The Hunt
+</td>
+<td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/haseebyaseen662/haseebyaseen662/output/github-snake-dark.svg" width="94%" alt="contribution snake" />
+### 🤖 Agentic AI × Business Workflows
+
+Automating business processes by wiring AI agents into real operational workflows — not chatbots bolted on, but AI doing the actual work inside a system.
+
+`AI Agents` `Workflow Automation` `API Integration`
+
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
-<a href="https://www.instagram.com/unbeatable.dev"><img src="https://img.shields.io/badge/▸_Follow_the_build-@unbeatable.dev-ff6b35?style=for-the-badge&labelColor=0d1117" alt="contact" /></a>
+<a href="https://www.instagram.com/unbeatable.dev"><img src="https://img.shields.io/badge/▸_Follow_the_build-@unbeatable.dev-4f46e5?style=for-the-badge&labelColor=0d0d0d" alt="contact" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d0d0d,50:ff6b35,100:ff8a4c&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d0d0d,50:4338ca,100:6366f1&section=footer" width="100%" alt="footer" />
 
 </div>
